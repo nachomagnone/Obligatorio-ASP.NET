@@ -1,0 +1,38 @@
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Logica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Logica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+E:\Obligatorio\Logica\bin\Debug\Logica.dll
+E:\Obligatorio\Logica\bin\Debug\Logica.pdb
+E:\Obligatorio\Logica\bin\Debug\Entidades.dll
+E:\Obligatorio\Logica\bin\Debug\Persistencia.dll
+E:\Obligatorio\Logica\bin\Debug\Entidades.pdb
+E:\Obligatorio\Logica\bin\Debug\Persistencia.pdb
+E:\Obligatorio\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+E:\Obligatorio\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+E:\Obligatorio\Logica\obj\Debug\Logica.csproj.CopyComplete
+E:\Obligatorio\Logica\obj\Debug\Logica.dll
+E:\Obligatorio\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Obligatorio\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Logica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Obligatorio\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\Obligatorio\Logica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Obligatorio\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Obligatorio\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Logica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Logica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Logica\obj\Debug\Logica.pdb

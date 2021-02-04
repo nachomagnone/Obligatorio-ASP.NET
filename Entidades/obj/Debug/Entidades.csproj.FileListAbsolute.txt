@@ -1,0 +1,20 @@
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Entidades\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Entidades\obj\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Entidades\obj\Debug\Entidades.pdb
+E:\Obligatorio\Entidades\bin\Debug\Entidades.dll
+E:\Obligatorio\Entidades\bin\Debug\Entidades.pdb
+E:\Obligatorio\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Obligatorio\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Obligatorio\Entidades\obj\Debug\Entidades.dll
+E:\Obligatorio\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Entidades\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Obligatorio\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Entidades\obj\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Obligatorio\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Entidades\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Entidades\obj\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Entidades\obj\Debug\Entidades.pdb

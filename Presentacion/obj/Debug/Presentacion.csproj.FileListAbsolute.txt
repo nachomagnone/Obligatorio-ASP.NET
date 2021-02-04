@@ -1,0 +1,46 @@
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Presentacion\bin\Presentacion.dll
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Presentacion\bin\Presentacion.pdb
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Presentacion\bin\Entidades.dll
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Presentacion\bin\Logica.dll
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Presentacion\bin\Entidades.pdb
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Presentacion\bin\Logica.pdb
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Presentacion\bin\Persistencia.dll
+C:\Users\Administrador\Desktop\Obligatorio ASP.NET\Obligatorio\Presentacion\bin\Persistencia.pdb
+E:\Obligatorio\Presentacion\bin\Presentacion.dll
+E:\Obligatorio\Presentacion\bin\Presentacion.pdb
+E:\Obligatorio\Presentacion\bin\Entidades.dll
+E:\Obligatorio\Presentacion\bin\Logica.dll
+E:\Obligatorio\Presentacion\bin\Persistencia.dll
+E:\Obligatorio\Presentacion\bin\Entidades.pdb
+E:\Obligatorio\Presentacion\bin\Logica.pdb
+E:\Obligatorio\Presentacion\bin\Persistencia.pdb
+E:\Obligatorio\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\Obligatorio\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\Obligatorio\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\Obligatorio\Presentacion\obj\Debug\Presentacion.dll
+E:\Obligatorio\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Presentacion\bin\Presentacion.dll
+C:\Users\Administrador\Desktop\Obligatorio\Presentacion\bin\Presentacion.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Presentacion\bin\Entidades.dll
+C:\Users\Administrador\Desktop\Obligatorio\Presentacion\bin\Logica.dll
+C:\Users\Administrador\Desktop\Obligatorio\Presentacion\bin\Persistencia.dll
+C:\Users\Administrador\Desktop\Obligatorio\Presentacion\bin\Entidades.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Presentacion\bin\Logica.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Presentacion\bin\Persistencia.pdb
+C:\Users\Administrador\Desktop\Obligatorio\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Obligatorio\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Administrador\Desktop\Obligatorio\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Presentacion\bin\Presentacion.dll
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Presentacion\bin\Presentacion.pdb
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Presentacion\bin\Entidades.dll
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Presentacion\bin\Logica.dll
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Presentacion\bin\Persistencia.dll
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Presentacion\bin\Entidades.pdb
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Presentacion\bin\Logica.pdb
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Presentacion\bin\Persistencia.pdb
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - ASP.NET\Obligatorio\Presentacion\obj\Debug\Presentacion.pdb
